@@ -1,0 +1,6 @@
+[data-theme="dark"] [data-starred=true] {
+    background-color: black;
+}
+[data-theme="light"] [data-starred=true] {
+    background-color: #ebebe5;
+}
